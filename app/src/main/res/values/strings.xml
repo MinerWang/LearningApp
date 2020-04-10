@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">JustLoginRegisterTest</string>
+
+    <string name="btn_last">上一首</string>
+    <string name="btn_star">开始/暂停</string>
+    <string name="btn_stop">停止</string>
+    <string name="btn_next">下一首</string>
+</resources>
